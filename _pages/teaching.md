@@ -1,12 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: #Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+###  **BENG 1 - Introduction to Bioengineering**
+Teaching Assistant, Fall 2016. University of California, San Diego.
 
-Organize your courses by years, topics, or universities, however you like!
+###  **STAT 115/215  -  Introduction to Bioinformatics and Computational Biology**
+Teaching Assistant, Spring 2021. Harvard University. <br/>
+The full list of course material is on Youtube [2021 STAT115 PLAYLIST](https://www.youtube.com/playlist?list=PLeB-Dlq-v6taAXK6ZCGfqImrNWJzFt3p3). <br/>
+ The class notebook is at  [here](https://liulab-dfci.github.io/bioinfo-combio/). <br/>
